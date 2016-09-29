@@ -25,4 +25,4 @@ github_username:  davojta
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
