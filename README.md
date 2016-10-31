@@ -1,5 +1,7 @@
 # FramedCommons.Video
 
+VideoBro - https://kinaklub.github.io/videobro/
+
 ## Проблема
  Отсутствие в открытом доступе в интернете видеоматериала публичных лекций, дискуссий, других событий.  
  
