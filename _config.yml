@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: FramedCommons.video
+title: VideoBro
 email: dzianis.sheka@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Общественный прокат техники для съемок публичных некоммерческих мероприятий
-baseurl: "/video" # the subpath of your site, e.g. /blog
-url: "https://framedcommons.github.io" # the base hostname & protocol for your site
+baseurl: "/videobro" # the subpath of your site, e.g. /blog
+url: "https://kinaklub.github.io" # the base hostname & protocol for your site
 #url: "http://localhost:4000" # the base hostname & protocol for your site
 twitter_username: davojta
 github_username:  davojta
