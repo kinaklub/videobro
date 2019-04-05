@@ -1,6 +1,8 @@
 # FramedCommons.Video
 
-VideoBro - https://kinaklub.github.io/videobro/
+* VideoBro: https://kinaklub.github.io/videobro/
+* Telegram: [@brominsk](https://t.me/brominsk)
+* YouTube: https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ
 
 ## Проблема
  Отсутствие в открытом доступе в интернете видеоматериала публичных лекций, дискуссий, других событий.  
